@@ -1,2 +1,2 @@
 # leiturabeta
-Site de apresentação de serviços de Leitura Beta para autores independentes. Permite que escritores solicitem análises de textos, desde primeiras impressões até relatórios detalhados capítulo a capítulo, com feedback sensível, honesto e construtivo.
+“Plataforma de Leitura Beta para autores independentes — feedback detalhado, envio de arquivos e links, dark mode e design responsivo com integração Supabase.”
