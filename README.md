@@ -6,15 +6,21 @@ Site de apresentação de serviços de Leitura Beta para autores independentes. 
 Funcionalidades principais:
 
 • Formulário interativo com envio de arquivos e links do livro (integração com Supabase).
+
 • Seleção automática do pacote de serviço a partir dos cards de oferta.
+
 • Slider de depoimentos de autores e fade de seções ao scroll.
+
 • Dark Mode e responsividade mobile.
+
 • Animações sutis para botões e upload de arquivos.
 
 Tecnologias usadas:
 
 • HTML, CSS (com variáveis, animações e dark mode)
+
 • JavaScript (DOM, eventos, Intersection Observer, integração Supabase)
+
 • Supabase para backend e armazenamento de arquivos
 
 Objetivo:
@@ -30,15 +36,21 @@ Presentation website for Beta Reading services aimed at independent authors. All
 Main Features:
 
 • Interactive form with file and book link submission (Supabase integration).
+
 • Automatic service package selection from service cards.
+
 • Author testimonial slider and fade-in sections on scroll.
+
 • Dark mode and mobile responsiveness.
+
 • Custom animations for buttons and file uploads.
 
 Technologies Used:
 
 • HTML, CSS (variables, animations, dark mode)
+
 • JavaScript (DOM manipulation, events, Intersection Observer, Supabase integration)
+
 • Supabase for backend and file storage
 
 Purpose:
