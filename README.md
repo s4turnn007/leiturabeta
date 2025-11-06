@@ -3,6 +3,7 @@ Leitura Beta • Stéfanie Carvalho
 
 Site de apresentação de serviços de Leitura Beta para autores independentes. Permite que escritores solicitem análises de textos, desde primeiras impressões até relatórios detalhados capítulo a capítulo, com feedback sensível, honesto e construtivo.
 
+
 Funcionalidades principais:
 
 • Formulário interativo com envio de arquivos e links do livro (integração com Supabase).
@@ -15,6 +16,7 @@ Funcionalidades principais:
 
 • Animações sutis para botões e upload de arquivos.
 
+
 Tecnologias usadas:
 
 • HTML, CSS (com variáveis, animações e dark mode)
@@ -22,6 +24,7 @@ Tecnologias usadas:
 • JavaScript (DOM, eventos, Intersection Observer, integração Supabase)
 
 • Supabase para backend e armazenamento de arquivos
+
 
 Objetivo:
 
@@ -32,6 +35,7 @@ Facilitar o contato entre autores independentes e a leitora beta, oferecendo uma
 Beta Reading • Stéfanie Carvalho
 
 Presentation website for Beta Reading services aimed at independent authors. Allows writers to request text analyses, from initial impressions to detailed chapter-by-chapter reports, with sensitive, honest, and constructive feedback.
+
 
 Main Features:
 
@@ -45,6 +49,7 @@ Main Features:
 
 • Custom animations for buttons and file uploads.
 
+
 Technologies Used:
 
 • HTML, CSS (variables, animations, dark mode)
@@ -52,6 +57,7 @@ Technologies Used:
 • JavaScript (DOM manipulation, events, Intersection Observer, Supabase integration)
 
 • Supabase for backend and file storage
+
 
 Purpose:
 
